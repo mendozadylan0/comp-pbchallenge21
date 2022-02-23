@@ -17,6 +17,6 @@ Data Preprocessing, Exploratory Data Analysis, Feature Engineering, Model Buildi
 **Data Source:**\
 2 CSV files containing sample performance/operation data collected from 40,000 mailing meters.
 - train.csv: Sample data for meters with a flag whether they fail within the next 7 days.
-- test.csv: Sample data without fail flag. Predictions for these meters is part of the final deliverable
+- test.csv: Sample data without fail flag. Predictions for these meters is part of the final deliverable.
 
 
