@@ -19,7 +19,7 @@ Data Preprocessing, Exploratory Data Analysis, Feature Engineering, Model Buildi
 - train.csv: Sample data for meters with a flag whether they fail within the next 7 days.
 - test.csv: Sample data without fail flag. Predictions for these meters is part of the final deliverable.
 
-**Data Dictionary:**\
+**Data Dictionary:**
 - fail_7 – Binary variable indicating whether the device failed in the next 7 days from the last record 	
 - Deviceid – Unique ID for each meter
 - avg_time_charging_lag – Average amount of time the device was charging ‘i’ days prior
